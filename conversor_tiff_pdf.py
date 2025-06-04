@@ -55,7 +55,7 @@ def iniciar_conversao():
 
 # GUI
 janela = Tk()
-janela.title("Conversor TIFF para PDF")
+janela.title("Conversor TIFF para PDF - Laboratório Dom Bosco")
 janela.geometry("600x400")
 
 Label(janela, text="Pasta de origem (TIFF):").pack()
